@@ -1,0 +1,22 @@
+{
+  "name": "noderef",
+  "version": "1.0.0",
+  "description": "nodejs code dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakemraz/NodeRef.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jakemraz",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/jakemraz/NodeRef/issues"
+  },
+  "homepage": "https://github.com/jakemraz/NodeRef#readme"
+}

@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jakemraz/NodeRef/issues"
   },
-  "homepage": "https://github.com/jakemraz/NodeRef#readme"
+  "homepage": "https://github.com/jakemraz/NodeRef#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
 }
